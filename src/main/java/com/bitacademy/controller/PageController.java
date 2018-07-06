@@ -11,4 +11,9 @@ public class PageController {
     public String new2 (){
         return "application";
     }
+
+    @RequestMapping(value = "/subject", method = RequestMethod.GET)
+    public String subject () {
+        return "subject";
+    }
 }

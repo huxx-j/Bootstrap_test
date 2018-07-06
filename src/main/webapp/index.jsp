@@ -34,7 +34,7 @@
                     <button type="button" class="btn btn-xs bg-gray"> 카테고리 추가</button>
                     <button type="button" class="btn btn-xs bg-gray" style="float: right"> 카테고리 편집</button>
                 </div>
-                <div class="tab-content" style="height: 500px; background-color: #e5e5e5">
+                <div class="tab-content-custom" style="height: 500px; background-color: #e5e5e5">
                     <div class="tab-pane active" id="tab_1">
                         <ul class="side-bar test" data-widget="tree">
                             <li class="treeview"> <a href="#"> <i class="fa fa-circle-o"></i> <span>기초언어</span> <span class="pull-right-container"> <i class="fa fa-angle-left pull-right"></i> </span> </a>

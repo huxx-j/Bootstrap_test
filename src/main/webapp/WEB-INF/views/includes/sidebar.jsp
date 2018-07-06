@@ -19,7 +19,7 @@
             </li>
             <li class="treeview menu-open"> <a href="#"> <i class="fa fa-th"></i> <span>학사관리 업무</span> <span class="pull-right-container"> <i class="fa fa-angle-left pull-right"></i> </span> </a>
                 <ul class="treeview-menu" style="display: block">
-                    <li><a href="#"><i class="fa fa-circle-o"></i> 수업관리</a></li>
+                    <li><a href="/subject"><i class="fa fa-circle-o"></i> 수업관리</a></li>
                 </ul>
             </li>
             <li class="treeview menu-open"> <a href="#"> <i class="fa fa-pie-chart"></i> <span>출신관리 업무</span> <span class="pull-right-container"> <i class="fa fa-angle-left pull-right"></i> </span> </a>
