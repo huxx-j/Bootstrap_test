@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Huxx_j
-  Date: 2018. 6. 29.
-  Time: 오후 6:45
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <script src="/assets/bower_components/jquery/dist/jquery.min.js"></script>
 <script src="/assets/bower_components/jquery-ui/jquery-ui.min.js"></script>

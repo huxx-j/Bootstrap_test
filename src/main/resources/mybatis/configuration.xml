@@ -5,8 +5,8 @@
 
 <configuration>
     <typeAliases>
-        <!--<typeAlias alias="CateVo" type="com.huxx.vo.CateVo" />-->
-        <typeAlias alias="UserVo" type="com.huxx.vo.UserVo" />
+        <!--<typeAlias alias="CateVo" type="com.bitacademycademy.vo.CateVo" />-->
+        <typeAlias alias="UserVo" type="com.bitacademy.vo.UserVo" />
     </typeAliases>
     <mappers>
         <!--<mapper resource="mybatis/mappers/cate.xml" />-->

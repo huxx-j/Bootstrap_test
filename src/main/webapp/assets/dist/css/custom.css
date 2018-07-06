@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.test {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.sidebar {
+	width: 180px
+}
+.main-sidebar {
+	width: 180px;
+}
+.content-wrapper {
+	margin-left: 180px;
+}
+.logo {
+	width: 180px;
+}
+.logo {
+	width: 180px;
+	margin-right: -180px
+}
+.main-header .logo {
+	padding: 0px;
+}
+.logo-lg {
+	padding: 0px;
+	width: 180px;
+}
+.main-header .navbar {
+	margin-left: 180px;
+}
+.main-footer {
+	margin-left: 180px;
+}
+.cate_mod {
+	border-bottom: solid 1px #A2A2A2;
+	border-top : solid 1px #a2a2a2;
+	padding: 5px;
+	margin-top: 1px
+}
+.tab-content {
+	border: solid 1px #a2a2a2;
+	overflow-y: scroll;
+}
+	.row {
+		width:240px; 
+		float: left; 
+		margin:10px;
+	}

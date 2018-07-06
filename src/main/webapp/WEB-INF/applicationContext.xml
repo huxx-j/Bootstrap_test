@@ -29,7 +29,7 @@ http://www.springframework.org/schema/tx/spring-tx-3.0.xsd">
 
 
     <context:annotation-config/>
-    <context:component-scan base-package="com.huxx">
+    <context:component-scan base-package="com.bitacademy">
         <context:include-filter type="annotation" expression="org.springframework.stereotype.Repository"/>
         <context:include-filter type="annotation" expression="org.springframework.stereotype.Service"/>
         <context:include-filter type="annotation" expression="org.springframework.stereotype.Component"/>
